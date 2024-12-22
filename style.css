@@ -6,3 +6,9 @@
 h1 {
   color: red;
 }
+
+.description {
+  background-color: black;
+  color: lightyellow;
+  font-size: 2rem;
+}
